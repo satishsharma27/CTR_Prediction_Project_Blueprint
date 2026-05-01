@@ -58,7 +58,7 @@ In interviews, it's not about naming the right tools — it's about explaining w
 - *"Airflow for orchestration — it's overkill for a small DAG but the team wanted SLA monitoring and the ability to backfill arbitrary date ranges."*
 - *"LightGBM over XGBoost — comparable accuracy, faster training on our wide feature set."*
 
-That's the texture senior interviewers are listening for.
+That's exactly what experienced interviewers want to hear.
 
 ---
 
