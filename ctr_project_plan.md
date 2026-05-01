@@ -52,7 +52,7 @@ This is the stack I'd use if I were starting a CTR project at a mid-sized tech c
 
 ### Why this stack signals "I've done this before"
 
-In interviews, the *names* of tools matter less than *being able to articulate trade-offs*. With this stack you can say:
+In interviews, it's not about naming the right tools — it's about explaining why you'd choose one over another. With this stack, you can do exactly that.:
 
 - *"We used MLflow for experiment tracking; we considered W&B but chose MLflow because we wanted self-hosted artifact storage."*
 - *"Airflow for orchestration — it's overkill for a small DAG but the team wanted SLA monitoring and the ability to backfill arbitrary date ranges."*
